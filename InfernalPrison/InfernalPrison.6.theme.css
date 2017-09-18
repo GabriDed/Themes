@@ -31,12 +31,12 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-	background-image: url(https://puu.sh/w1yBu/5c9dd69b92.jpg) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
+	background-image: url(https://i.reddituploads.com/d1498039d60e4e5f96a301962a0a8ab0?fit=max&h=1536&w=1536&s=2faf4b76b6dcaa98437e61736858b41a) !important; /* IMPORTANT: For best result, use wallpaper dimensions */
 }	/* ORIGINAL: https://puu.sh/w1yBu/5c9dd69b92.jpg (in case you want to change it back) */
 
 /* ========== CUSTOMIZABLE DM IMAGE ========== */
 .guilds-wrapper .guilds .friends-icon::after {
-	background-image: url(https://puu.sh/sDTyr/6c5abd7d78.gif) !important; /* IMPORTANT: For best result, use even dimensions */
+	background-image: url(https://media.giphy.com/media/2Zx7vPlybLbpe/200.gif) !important; /* IMPORTANT: For best result, use even dimensions */
 }	/* ORIGINAL: https://puu.sh/sDTyr/6c5abd7d78.gif (in case you want to change it back) */
 
 /* ========== CUSTOMIZABLE PROFILE HEADER ========== */
